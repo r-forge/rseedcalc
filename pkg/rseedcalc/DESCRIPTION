@@ -1,11 +1,12 @@
 Package: rseedcalc
 Type: Package
-Title: Estimation of Proportion of GM Stacked Seeds in Seed Lots
-Version: 1.0
-Date: 2010-06-22
+Title: Estimation of the proportion of genetically modified stacked seeds in seedlots
+Version: 1.00
+Date: 2010-07-04
 Author: Kevin Wright, Jean-Louis Laffont
 Maintainer: Kevin Wright <kw.stat@gmail.com>
-Description: Estimate the percentage of seeds containing GM traits.
+Description: Estimate the percentage of seeds in a seedlot that contain stacks of genetically
+modified traits.
 Suggests: RExcelInstaller, rcom
 License: GPL2
 LazyLoad: yes
